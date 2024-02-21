@@ -7,4 +7,5 @@
 5. [最简单的cgo示例](https://www.bitlogs.tech/2020/09/最简单的cgo示例/)
 6. [Using Go with and C (Static and Dynamic) Libraries](https://github.com/lxwagn/using-go-with-c-libraries)
 7. [cgo性能](perf)
+8. [Calling C from Go](callcfromgo.md)
 
